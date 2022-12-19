@@ -9,3 +9,5 @@
 ### Messing around with HTML at the current moment.
 
 ### :troll:
+
+Funny Stuff: ![HumanManThing/the-funny](https://github.com/HumanManthing/the-funny)
