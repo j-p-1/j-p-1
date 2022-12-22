@@ -1,13 +1,26 @@
-# :cat2: :computer: Hello :computer: :cat2: 
+<h1 align="center">:earth_americas: :cat2: :computer: Hello :computer: :cat2: :earth_americas:</h1>
 
-### :computer: :earth_americas: :cat2:
+<p align="center">I am j-p-1.</p>
 
-### Focusing / Taking things seriously.
+<h3 align="center">Focusing / Taking things seriously.</h3>
 
-### :dart: And even more focusing!
+<h3 align="center">:dart: And even more focusing! :dart:</h3>
 
-### Messing around with HTML at the current moment.
+<p align="center">I am currently working with HTML and CSS at the moment among other things.</p>
 
-### :troll:
+<h3 align="center">:troll:</h3>
 
-Funny Stuff: ![HumanManThing/the-funny](https://github.com/HumanManthing/the-funny)
+<div align="center">
+  <details>
+  <summary>Some stuff that is funny</summary>
+
+  [HumanManthing / HumanManThing](https://github.com/HumanManThing/HumanManThing)
+
+  [HumanManThing / the-funny](https://github.com/HumanManThing/the-funny)
+
+  [Nubertry / buff-garfie](https://github.com/Nubertry/buff-garfie)
+
+  [Nuberty / G4RF13LD](https://github.com/Nubertry/G4RF13LD)
+
+  </details>
+</div>
