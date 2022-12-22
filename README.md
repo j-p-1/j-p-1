@@ -1,6 +1,6 @@
-# :cat2: :computer: Hello :computer: :cat2: 
+<h1 align="center"> :earth_americas: :cat2: :computer: Hello :computer: :cat2: :earth_americas:</h1>
 
-### :computer: :earth_americas: :cat2:
+<p align="center">I am j-p-1.</p>
 
 ### Focusing / Taking things seriously.
 
