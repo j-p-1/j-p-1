@@ -1,4 +1,4 @@
-<h1 align="center">:christmas_tree: :earth_americas: :cat2: :computer: Hello :computer: :cat2: :earth_americas: :christmas_tree:</h1>
+<h1 align="center">:earth_americas: :cat2: :computer: Hello :computer: :cat2: :earth_americas:</h1>
 
 <p align="center">I am j-p-1.</p>
 
