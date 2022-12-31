@@ -1,17 +1,15 @@
-<h1 align="center">:earth_americas: :cat2: :computer: Hello :computer: :cat2: :earth_americas:</h1>
+# :earth_americas: :cat2: :computer: Hello, I am j-p-1. :computer: :cat2: :earth_americas:
 
-<p align="center">I am j-p-1.</p>
 
-<h3 align="center">Focusing / Taking things seriously.</h3>
+### Focusing / Taking things seriously.
 
-<h3 align="center">:dart: And even more focusing! :dart:</h3>
+### :dart: And even more focusing! :dart:
 
-<p align="center">I am currently working with HTML and CSS at the moment among other things.</p>
+### :book: I am currently working with HTML and CSS at the moment among other things.
 
-<h3 align="center">:troll:</h3>
+### :troll:
 
-<div align="center">
-  <details>
+<details>
   <summary>Some stuff that is funny</summary>
 
   [HumanManthing / HumanManThing](https://github.com/HumanManThing/HumanManThing)
@@ -22,5 +20,4 @@
 
   [Nuberty / G4RF13LD](https://github.com/Nubertry/G4RF13LD)
 
-  </details>
-</div>
+</details>
