@@ -12,8 +12,8 @@ I am j-p-1.
 
 [HumanManthing / HumanManThing](https://github.com/HumanManThing/HumanManThing) - Very Funny Readme.
 
-[HumanManThing / the-funny](https://github.com/HumanManThing/the-funny) Truly funny.
+[HumanManThing / the-funny](https://github.com/HumanManThing/the-funny) - Truly funny.
 
-[Nubertry / buff-garfie](https://github.com/Nubertry/buff-garfie) Buff Garfie Photo Opener.
+[Nubertry / buff-garfie](https://github.com/Nubertry/buff-garfie) - Buff Garfie Photo Opener.
 
-[Nuberty / G4RF13LD](https://github.com/Nubertry/G4RF13LD) Same as last link, just more binary than sources.
+[Nuberty / G4RF13LD](https://github.com/Nubertry/G4RF13LD) - Same as last link, just more binary than sources.
