@@ -1,26 +1,19 @@
-<h1 align="center">:earth_americas: :cat2: :computer: Hello :computer: :cat2: :earth_americas:</h1>
+# :earth_americas: :cat2: :computer: Hello. :computer: :cat2: :earth_americas:
 
-<p align="center">I am j-p-1.</p>
+I am j-p-1.
 
-<h3 align="center">Focusing / Taking things seriously.</h3>
+:dart: Focusing.
 
-<h3 align="center">:dart: And even more focusing! :dart:</h3>
+:book: I am currently working with HTML and CSS at the moment among other things.
 
-<p align="center">I am currently working with HTML and CSS at the moment among other things.</p>
+:troll:
 
-<h3 align="center">:troll:</h3>
+## Very Funny Stuff:
 
-<div align="center">
-  <details>
-  <summary>Some stuff that is funny</summary>
+[HumanManthing / HumanManThing](https://github.com/HumanManThing/HumanManThing) - Very Funny Readme.
 
-  [HumanManthing / HumanManThing](https://github.com/HumanManThing/HumanManThing)
+[HumanManThing / the-funny](https://github.com/HumanManThing/the-funny) Truly funny.
 
-  [HumanManThing / the-funny](https://github.com/HumanManThing/the-funny)
+[Nubertry / buff-garfie](https://github.com/Nubertry/buff-garfie) Buff Garfie Photo Opener.
 
-  [Nubertry / buff-garfie](https://github.com/Nubertry/buff-garfie)
-
-  [Nuberty / G4RF13LD](https://github.com/Nubertry/G4RF13LD)
-
-  </details>
-</div>
+[Nuberty / G4RF13LD](https://github.com/Nubertry/G4RF13LD) Same as last link, just more binary than sources.
