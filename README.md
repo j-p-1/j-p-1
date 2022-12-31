@@ -1,23 +1,19 @@
-# :earth_americas: :cat2: :computer: Hello, I am j-p-1. :computer: :cat2: :earth_americas:
+# :earth_americas: :cat2: :computer: Hello. :computer: :cat2: :earth_americas:
 
+I am j-p-1.
 
-### Focusing / Taking things seriously.
+:dart: Focusing.
 
-### :dart: And even more focusing! :dart:
+:book: I am currently working with HTML and CSS at the moment among other things.
 
-### :book: I am currently working with HTML and CSS at the moment among other things.
+:troll:
 
-### :troll:
+## Very Funny Stuff:
 
-<details>
-  <summary>Some stuff that is funny</summary>
+[HumanManthing / HumanManThing](https://github.com/HumanManThing/HumanManThing) - Very Funny Readme.
 
-  [HumanManthing / HumanManThing](https://github.com/HumanManThing/HumanManThing)
+[HumanManThing / the-funny](https://github.com/HumanManThing/the-funny) Truly funny.
 
-  [HumanManThing / the-funny](https://github.com/HumanManThing/the-funny)
+[Nubertry / buff-garfie](https://github.com/Nubertry/buff-garfie) Buff Garfie Photo Opener.
 
-  [Nubertry / buff-garfie](https://github.com/Nubertry/buff-garfie)
-
-  [Nuberty / G4RF13LD](https://github.com/Nubertry/G4RF13LD)
-
-</details>
+[Nuberty / G4RF13LD](https://github.com/Nubertry/G4RF13LD) Same as last link, just more binary than sources.
