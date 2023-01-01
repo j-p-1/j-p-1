@@ -28,8 +28,4 @@ Of course, there is the epic [:troll:].
 
 ## Anything Exciting Happening Currently?
 
-*0.25 Hours and counting* until 2023!
-
-Go track the time until then for yourself and *__2023 be with you__*!
-
-(Periodically updated remotely by a human!)
+*Its now* 2023!
