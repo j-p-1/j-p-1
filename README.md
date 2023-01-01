@@ -4,6 +4,8 @@
 
 I am j-p-1.
 
+## What am I doing right now?
+
 :dart: Focusing.
 
 ## What am I doing now?
@@ -26,6 +28,8 @@ Of course, there is the epic [:troll:].
 
 ## Anything Exciting Happening Currently?
 
-*5 Hours and counting* until 2023!
+*4 Hours and counting* until 2023!
 
 Go track the time until then for yourself and *__2023 be with you__*!
+
+(Periodically updated remotely by a human!)
