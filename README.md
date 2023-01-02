@@ -25,7 +25,3 @@ Of course, there is the epic [:troll:].
 [Nubertry / buff-garfie](https://github.com/Nubertry/buff-garfie) - Buff Garfie Photo Opener.
 
 [Nuberty / G4RF13LD](https://github.com/Nubertry/G4RF13LD) - Buff Garfie, but there is little dependencies needed to run it!
-
-## Anything Exciting Happening Currently?
-
-*Its now* 2023!
